@@ -2,6 +2,7 @@ body{
 background: rgb(20, 20, 20);
 color: #999;
 font-family: arial;
+	
 }
 header{
 	color: rgb(20, 20, 20);
@@ -9,13 +10,16 @@ header{
 	padding :25px 25px 0px 25px;
 }
 header h1{
-		font-family: "Times New Roman";
+	font-family: arial;
 
-	font-size:40px;
+	font-size:45px;
 	list-style-type: none;
 	margin: 0;
 	display: inline;
 	padding :0px 25px 25px 25px;
+}
+h2{
+	font-size:35px;
 }
 .h {
 	font-size:40px;
@@ -37,6 +41,7 @@ background: rgb(20, 20, 20);
 list-style-type: none;
 display: inline-block;
 padding: 10px 20px;
+color: rgb(50, 50, 180);
 }
 nav ul li a{
 		color: #999;
@@ -46,16 +51,15 @@ figure{
 	width: 300px;
 		float:left;
 }
-figcaption{
-	display: inline-block;
+.BB{
+	font-size:20px;
 }
-article{
-	display: inline-block;
+.Text{
+	padding :0px 0px 0px 25px;
+}
+.Text p {
+  margin: 0;
 }
 a {
-  color: rgb(46, 35, 168);
-}
-.a2{
-	clear: both;
-	display: block;
+  color: rgb(50, 50, 180);
 }
