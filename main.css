@@ -52,6 +52,9 @@ figcaption{
 article{
 	display: inline-block;
 }
+a {
+  color: rgb(20,20,180);
+}
 .a2{
 	clear: both;
 	display: block;
