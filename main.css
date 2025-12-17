@@ -41,34 +41,6 @@ padding: 10px 20px;
 nav ul li a{
 		color: #CFECEC;
 }
-.img-dog{
-	display: inline-block;
-	width: 300px;
-	float:left;
-	padding-bottom:20px;
-	background: white;
-}
-.img-dog2{
-	display: block;
-	width: 300px;
-	clear: both;
-	padding-bottom:20px;
-	
-}
-.img-dog3{
-	display: block;
-	width: 800px;
-	float:left;
-	padding:20px;
-	
-}
-.img-dog4{
-	display: block;
-	width: 800px;
-	clear: both;
-	padding:40px;
-	
-}
 figure{
 	display: inline-block;
 	width: 300px;
